@@ -1,0 +1,7 @@
+Notes from competition (Coding)
+
+Auto- using states
+possibility of using a framework
+Utilizing NavX for field postion and vision
+using feedback in auto
+projects to automate using sensors
