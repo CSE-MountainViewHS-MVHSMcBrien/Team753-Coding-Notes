@@ -6,3 +6,5 @@ Utilizing NavX for field postion and vision
 using feedback in auto
 projects to automate using sensors
 	-project could include something fun for the classroom
+	
+	
