@@ -8,5 +8,6 @@ projects to automate using sensors
 	-project could include something fun for the classroom
 	
 Portable chargers for phones when scouting
+	-anker looks to have a good one
 	
 	
